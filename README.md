@@ -1,1 +1,1 @@
-Worked through the problem sets from Andrew Ng's Machine Learning MOOC course on Coursera. Cloned dibgerge's Github repo (https://github.com/dibgerge/ml-coursera-python-assignments) to work on the assignments in Python.
+Worked through the problem sets from Andrew Ng's Machine Learning MOOC course on Coursera. Cloned dibgerge's repository (https://github.com/dibgerge/ml-coursera-python-assignments) for the assignments in Python.

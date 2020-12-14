@@ -109,3 +109,12 @@ venv.bak/
 *-solved.ipynb
 
 .idea/
+
+# VS Code
+.vscode
+
+# Misc. from dibgerge
+environment.yml
+machinelaerning.jpg
+submission.py
+README(dibgerge).md
